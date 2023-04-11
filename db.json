@@ -1,0 +1,91 @@
+{
+    "posts": [
+        {
+            "id": "11",
+            "name": "Barbecue Nation",
+            "location": "Park Street",
+            "city": "kolkata"
+        },
+        {
+            "id": "12",
+            "name": "Bachan Dhaba",
+            "location": "Rash Behari",
+            "city": "kolkata"
+        },
+        {
+            "id": "13",
+            "name": "Byepass Dhaba",
+            "location": "EM Byepass",
+            "city": "kolkata"
+        },
+        {
+            "id": "14",
+            "name": "Jai Hind Dhaba",
+            "location": "Park Street",
+            "city": "kolkata"
+        }
+    ],
+    "menus": [
+        {
+            "id": "11",
+            "menu": [
+                {
+                    "id":"1",
+                    "item": "chicken butter masala",
+                    "price": 150
+                },
+                {
+                    "id": "2",
+                    "item": "chicken tikka masala",
+                    "price": 200
+                }
+            ]
+        },
+        {
+            "id": "12",
+            "menu": [
+                {
+                    "id":"3",
+                    "item": "chicken butter masala",
+                    "price": 150
+                },
+                {
+                    "id": "4",
+                    "item": "chicken tikka masala",
+                    "price": 200
+                }
+            ]
+        },
+        {
+            "id": "13",
+            "menu": [
+                {
+                    "id":"5",
+                    "item": "chicken butter masala",
+                    "price": 150
+                },
+                {
+                    "id": "6",
+                    "item": "chicken tikka masala",
+                    "price": 200
+                }
+            ]
+        },
+        {
+            "id": "14",
+            "menu": [
+                {
+                    "id":"7",
+                    "item": "chicken butter masala",
+                    "price": 150
+                },
+                {
+                    "id": "8",
+                    "item": "chicken tikka masala",
+                    "price": 200
+                }
+            ]
+        }    
+        
+    ]
+}
